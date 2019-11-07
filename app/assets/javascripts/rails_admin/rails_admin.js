@@ -1,6 +1,5 @@
 //=  require 'jquery'
 //=  require 'jquery_ujs'
-//=  require 'jquery.remotipart'
 //=  require 'rails_admin/jquery-ui'
 //=  require 'rails_admin/moment-with-locales'
 //=  require 'rails_admin/bootstrap-datetimepicker'
